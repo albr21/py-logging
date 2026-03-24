@@ -35,7 +35,7 @@ Custom appenders, layouts, and filters can be created by subclassing the respect
 
 ## Contributing
 
-Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+Check out the [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
 
 ## License
 
