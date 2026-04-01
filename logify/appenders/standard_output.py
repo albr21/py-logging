@@ -1,4 +1,4 @@
-from logify.appender import Appender
+from ..appender import Appender
 
 class StandardOutput(Appender):
     """

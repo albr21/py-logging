@@ -1,5 +1,5 @@
 **/__pycache__/
 .pytest_cache/
 .coverage
-logging.egg-info/
+logify.egg-info/
 venv/

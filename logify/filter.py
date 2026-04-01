@@ -1,4 +1,4 @@
-from logify.log_event import LogEvent
+from .log_event import LogEvent
 
 class Filter:
     """

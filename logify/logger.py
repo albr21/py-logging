@@ -1,6 +1,6 @@
-from logify.appender import Appender
-from logify.log_event import LogEvent
-from logify.level import Level
+from .appender import Appender
+from .log_event import LogEvent
+from .level import Level
 
 class Logger():
     """

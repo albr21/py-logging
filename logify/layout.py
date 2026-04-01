@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from logify.log_event import LogEvent
+from .log_event import LogEvent
 
 class Layout(ABC):
     """
